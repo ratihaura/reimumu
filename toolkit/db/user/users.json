@@ -1,0 +1,120 @@
+{
+  "6283170706664": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1733628472697,
+      "response": false
+    },
+    "lastCharge": 1733624872697,
+    "fswaps": {
+      "list": []
+    },
+    "lastChat": 1733650929932,
+    "name": "Mimin"
+  },
+  "6289681861461": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 180,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "energy": 1500,
+      "chargeRate": 0.1,
+      "maxCharge": 850,
+      "time": 1736242836258
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 12,
+      "reset": 1733649818134,
+      "response": false
+    },
+    "lastCharge": 1733624884318,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Hafzz",
+    "lastChat": 1733652112893
+  },
+  "62895338742356": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 3185,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "energy": 1500,
+      "chargeRate": 0.1,
+      "maxCharge": 850,
+      "time": 1736306188415
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 26,
+      "reset": 1733630764198,
+      "response": false
+    },
+    "lastCharge": 1733627164198,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Bot Hz",
+    "lastChat": 1733651624022,
+    "claimPremTrial": true
+  },
+  "6289649000413": {
+    "chat": 9,
+    "role": "Gak kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "energy": 1500,
+      "chargeRate": 0.1,
+      "maxCharge": 850,
+      "time": 1736332336695
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 20,
+      "reset": 1733656894401,
+      "response": false
+    },
+    "lastCharge": 1733653294401,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Reimu",
+    "lastChat": 1733654060568
+  }
+}
