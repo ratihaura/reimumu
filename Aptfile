@@ -1,4 +1,3 @@
-libwebp7
-libwebpdecoder3
-libwebpdemux2
-libwebpmux3
+libwebp-dev
+webpmux
+ffmpeg
