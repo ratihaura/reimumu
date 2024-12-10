@@ -1,2 +1,4 @@
+build-essential
 libwebp-dev
-webpmux
+wget
+curl
