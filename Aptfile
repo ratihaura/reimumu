@@ -1,1 +1,4 @@
-libwebp-dev
+libwebp7
+libwebpdecoder3
+libwebpdemux2
+libwebpmux3
